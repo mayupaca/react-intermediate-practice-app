@@ -1,2 +1,2 @@
 # react-intermediate-practice-app
-Practice Typescript
+Created with CodeSandbox
